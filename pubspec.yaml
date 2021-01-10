@@ -23,6 +23,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_linkify:
+  url_launcher:
+  firebase_core:
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -45,8 +48,18 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - images/lalaland_cover.jpeg
+    - images/lalaland_cover.jpg
+    - images/dynamite.jpg
+    - images/밤하늘의별을.jpeg
+    - images/미리메리크리스마스.jpg
+    - images/몽환의숲.jpg
+    - images/holyday.jpg
+    - images/popstars.jpg
+    - images/howls_moving_castle.jpg
+    - images/riverflowsinyou.jpg
+    - images/flowerdance.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
